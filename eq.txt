@@ -1,0 +1,15 @@
+guitarra
+
+cuerpo 240hz
+presencia y claridad 2-5khz
+distorsionada refuerzo 1.2khz atenuacion 200hz
+crunch refuerzoo 380 y atenuacion 164
+250 - 800 turbio
+
+voz
+100 - 250 añade graves 
+250 a 800 zona confusa
+1-6 añade presencia
+6-8 añade silbancia y claridad 
+8-12 brillo respiracion
+
